@@ -1,4 +1,3 @@
-# sieci_komputerowe
 # System zdalnej kompresji plików
 
 # Opis protokołu komunikacyjnego
