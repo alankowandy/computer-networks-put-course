@@ -1,5 +1,7 @@
 # Remote File Compression System
 
+Respository created for the Computer Networks course on the 5th semester on computer science's major.
+
 # Description of the communication protocol
 
 1. The server waits for a connection.
